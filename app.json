@@ -1,7 +1,7 @@
 {
   "name": "PronoteBot",
   "description": "A bot which can do many things with Pronote Easily deployable on Heroku",
-  "repository": "https://github.com/Bapt5/PronoteBot",
+  "repository": "https://github.com/Mflavien01/PronoteBot",
   "logo": "https://0910626l.index-education.net/pronote/images/favicon.svg",
   "keywords": ["pronote", "pronote-api", "google-calendar-api", "microsoft-todo", "pymstodo", "pronotepy"],
   "addons": [
